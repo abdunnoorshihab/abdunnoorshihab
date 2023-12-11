@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdunnoorshihab" alt="abdunnoorshihab" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, JavaScript, Tree.js**
+- 🌱 I’m currently learning **HTML,CSS,PHP,Bootstrap,JavaScript**
 
 - 👯 I’m Currently working IUB as **Student on Duty (SoD)**
 
