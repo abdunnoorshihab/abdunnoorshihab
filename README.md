@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdun Noor Shihab</h1>
+<h1 align="center">I'm Abdun Noor Shihab</h1>
 <h3 align="center">A passionate Computer Science & Engineering Student from Bangladesh</h3>
 <img align="right" alt="animation" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdunnoorshihab" alt="abdunnoorshihab" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,PHP,Bootstrap,JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, PHP, JavaScript, Flutter**
 
 - 👯 I’m Currently working IUB as **Student on Duty (SoD)**
 
