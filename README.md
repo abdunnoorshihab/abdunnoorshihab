@@ -63,7 +63,7 @@
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   <br clear="both">
-<img align="right" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 ![](https://github-contributor-stats.vercel.app/api?username=abdunnoorshihab&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ###
