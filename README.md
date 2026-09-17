@@ -1,64 +1,109 @@
-<h2 align="center">Hello World!<br> This is Abdun Noor Shihab</h2>
-
-
-###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdunnoorshihab&label=Profile%20views&color=0e75b6&style=flat" alt="abdunnoorshihab" /> </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdunnoorshihab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=abdunnoorshihab&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-
-
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=190&section=header&text=Abdun%20Noor%20Shihab&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=56&descSize=17" />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+
+### Hello, World! 👋
+
+I enjoy exploring **web development, mobile applications, embedded systems, and creative design** while continuously learning and building new things.
+
+<img src="https://komarev.com/ghpvc/?username=abdunnoorshihab&label=Profile%20Views&color=4f46e5&style=for-the-badge" alt="Abdun Noor Shihab profile views" />
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Constantly learning and improving my technical skills
+- 💻 Interested in web, mobile, and software development
+- 🤖 Exploring Arduino and embedded systems
+- 🎨 Passionate about technology and creative design
+- 🤝 Open to collaborations and interesting projects
+
+---
+
+## 🛠️ Languages and Tools
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UC4oKWvsLAcHmSJffZDbocjQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/noor._.shihab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abdun-noor-shihab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/abdun.noor.shihab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=js,html,css,python,c,dart,flutter,androidstudio,arduino,figma&theme=dark" alt="Languages and tools" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 📊 GitHub Statistics
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  <br clear="both">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdunnoorshihab&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Abdun Noor Shihab's GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorshihab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Most used languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=abdunnoorshihab&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdunnoorshihab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdunnoorshihab&bg_color=1a1b27&color=70a5fd&line=4f46e5&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdun-noor-shihab/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdun%20Noor%20Shihab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.youtube.com/channel/UC4oKWvsLAcHmSJffZDbocjQ" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+<a href="https://www.instagram.com/noor._.shihab/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://www.facebook.com/abdun.noor.shihab/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=120&section=footer" />
