@@ -16,8 +16,7 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 
 - 🌱 Constantly learning and improving my technical skills
 - 💻 Interested in web, mobile, and software development
-- 📱 Exploring Flutter and Android application development
-- 🤖 Working with Arduino and embedded systems
+- 🤖 Exploring Arduino and embedded systems
 - 🎨 Passionate about technology and creative design
 - 🤝 Open to collaborations and interesting projects
 
@@ -31,9 +30,20 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/Flutter-1a1b27?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
+<img src="https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Android_Studio-1a1b27?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio" />
+<img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/Canva-1a1b27?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" />
 
 </div>
 
@@ -44,24 +54,12 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 <div align="center">
 
 <a href="https://github.com/abdunnoorshihab?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
 </a>
 
 <a href="https://github.com/abdunnoorshihab?tab=stars">
-  <img src="https://img.shields.io/badge/My_Starred_Projects-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Starred projects" />
+  <img src="https://img.shields.io/badge/My_Starred_Projects-00A6FF?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="My starred projects" />
 </a>
-
-</div>
-
----
-
-## 🤝 Open to Collaboration
-
-<div align="center">
-
-I am always interested in learning, collaborating and working on creative projects.
-
-**Have an interesting idea? Let’s build something amazing together!**
 
 </div>
 
@@ -99,4 +97,4 @@ I am always interested in learning, collaborating and working on creative projec
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=120&section=footer" alt="Footer banner" />
