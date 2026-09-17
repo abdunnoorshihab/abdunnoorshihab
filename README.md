@@ -54,26 +54,6 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Abdun Noor Shihab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdunnoorshihab&theme=tokyo-night&hide_border=true&area=true)](https://github.com/abdunnoorshihab)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=abdunnoorshihab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)](https://github.com/abdunnoorshihab?tab=achievements)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
