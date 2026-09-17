@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=190&section=header&text=Abdun%20Noor%20Shihab&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=56&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=190&section=header&text=Abdun%20Noor%20Shihab&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=56&descSize=17" alt="Header banner" />
 
 <div align="center">
 
-### Hello, World! 👋
+## Hello, World! 👋
 
 I enjoy exploring **web development, mobile applications, embedded systems, and creative design** while continuously learning and building new things.
 
-<img src="https://komarev.com/ghpvc/?username=abdunnoorshihab&label=Profile%20Views&color=4f46e5&style=for-the-badge" alt="Abdun Noor Shihab profile views" />
+<img src="https://komarev.com/ghpvc/?username=abdunnoorshihab&label=Profile%20Views&color=4f46e5&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -42,23 +42,13 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdunnoorshihab&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Abdun Noor Shihab's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdunnoorshihab&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub statistics" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorshihab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Most used languages" />
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=abdunnoorshihab&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdunnoorshihab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
 
 </div>
 
@@ -68,7 +58,17 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdunnoorshihab&bg_color=1a1b27&color=70a5fd&line=4f46e5&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+[![Abdun Noor Shihab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdunnoorshihab&theme=tokyo-night&hide_border=true&area=true)](https://github.com/abdunnoorshihab)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=abdunnoorshihab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)](https://github.com/abdunnoorshihab?tab=achievements)
 
 </div>
 
@@ -106,4 +106,4 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=120&section=footer" alt="Footer banner" />
