@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=190&section=header&text=Abdun%20Noor%20Shihab&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=56&descSize=17" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=190&section=header&text=Abdun%20Noor%20Shihab&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=56&descSize=17" alt="Abdun Noor Shihab" />
 
 <div align="center">
 
@@ -16,7 +16,8 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 
 - 🌱 Constantly learning and improving my technical skills
 - 💻 Interested in web, mobile, and software development
-- 🤖 Exploring Arduino and embedded systems
+- 📱 Exploring Flutter and Android application development
+- 🤖 Working with Arduino and embedded systems
 - 🎨 Passionate about technology and creative design
 - 🤝 Open to collaborations and interesting projects
 
@@ -38,17 +39,29 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Explore My Work
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdunnoorshihab&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub statistics" />
+<a href="https://github.com/abdunnoorshihab?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdunnoorshihab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Most used languages" />
+<a href="https://github.com/abdunnoorshihab?tab=stars">
+  <img src="https://img.shields.io/badge/My_Starred_Projects-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Starred projects" />
+</a>
 
-<br><br>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=abdunnoorshihab&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+---
+
+## 🤝 Open to Collaboration
+
+<div align="center">
+
+I am always interested in learning, collaborating and working on creative projects.
+
+**Have an interesting idea? Let’s build something amazing together!**
 
 </div>
 
@@ -86,4 +99,4 @@ I enjoy exploring **web development, mobile applications, embedded systems, and 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:4f46e5,100:00c6ff&height=120&section=footer" alt="Footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0
